@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1320", La 1
+dtv://antenna:45/dvb/1
+#EXTINF:0 type="stream" channelId="1321" tvg-country="ES", La 2
+dtv://antenna:45/dvb/2
+#EXTINF:0 type="stream" channelId="2124", Antena 3
+dtv://antenna:23/dvb/3
+#EXTINF:0 type="stream" channelId="1678", Cuatro
+dtv://antenna:24/dvb/4
+#EXTINF:0 type="stream" channelId="2527", Telecinco
+dtv://antenna:24/dvb/5
+#EXTINF:0 type="stream" channelId="1692", La Sexta
+dtv://antenna:23/dvb/6
+#EXTINF:0 type="stream" channelId="4048" logo="http://raw.githubusercontent.com/AresMiir/deprivate/main/images/7rm.png", 7RM
+http://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunklist_w468021537_b3300000.m3u8
+#EXTINF:0 type="stream" channelId="1675" logo="http://raw.githubusercontent.com/AresMiir/deprivate/main/images/cmm.png", CMM
+dtv://antenna:37/dvb/8
+#EXTINF:0 type="stream" channelId="-1" logo="http://raw.githubusercontent.com/AresMiir/deprivate/main/images/vision6.png", Visión 6
+dtv://antenna:22/dvb/11
+#EXTINF:0 type="stream" channelId="-1" logo="http://raw.githubusercontent.com/AresMiir/deprivate/main/images/tvhellin.png", TV Hellín
+dtv://antenna:22/dvb/7
+#EXTINF:0 type="stream" channelId="1324", Telemadrid
+http://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:0 type="stream" channelId="3638", TEN
+dtv://antenna:27/dvb/10
+#EXTINF:0 type="stream" channelId="4035", Trece
+dtv://antenna:28/dvb/13
+#EXTINF:0 type="stream" channelId="1695", Neox
+dtv://antenna:23/dvb/14
+#EXTINF:0 type="stream" channelId="3640", Atreseries
+dtv://antenna:27/dvb/12
+#EXTINF:0 type="stream" channelId="1685", FDF
+dtv://antenna:24/dvb/21
+#EXTINF:0 type="stream" channelId="1683", Energy
+dtv://antenna:28/dvb/23
+#EXTINF:0 type="stream" channelId="4036", Paramount Network
+dtv://antenna:46/dvb/9
