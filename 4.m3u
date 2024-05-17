@@ -15,10 +15,6 @@ dtv://antenna:23/dvb/6
 http://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunklist_w468021537_b3300000.m3u8
 #EXTINF:0 type="stream" channelId="1675" logo="http://raw.githubusercontent.com/AresMiir/deprivate/main/images/cmm.png", CMM
 dtv://antenna:37/dvb/8
-#EXTINF:0 type="stream" channelId="-1" logo="http://raw.githubusercontent.com/AresMiir/deprivate/main/images/vision6.png", Visión 6
-dtv://antenna:22/dvb/11
-#EXTINF:0 type="stream" channelId="-1" logo="http://raw.githubusercontent.com/AresMiir/deprivate/main/images/tvhellin.png", TV Hellín
-dtv://antenna:22/dvb/7
 #EXTINF:0 type="stream" channelId="1324", Telemadrid
 http://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:0 type="stream" channelId="3638", TEN
@@ -29,6 +25,10 @@ dtv://antenna:28/dvb/13
 dtv://antenna:23/dvb/14
 #EXTINF:0 type="stream" channelId="3640", Atreseries
 dtv://antenna:27/dvb/12
+#EXTINF:0 type="stream" channelId="978", DMAX
+dtv://antenna:46/dvb/18
+#EXTINF:0 type="stream" channelId="3637", DKISS
+dtv://antenna:21/dvb/19
 #EXTINF:0 type="stream" channelId="1685", FDF
 dtv://antenna:24/dvb/21
 #EXTINF:0 type="stream" channelId="1683", Energy
